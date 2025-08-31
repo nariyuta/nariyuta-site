@@ -1,11 +1,13 @@
 body{
  padding: 5px;
+ background-color: lightyellow;
 }
 
 .Center:not(.DontCenter){
  text-align: center;
  align-items: center;
 }
+
 .枠線{
  border: solid black;
  border-radius: 5px;
