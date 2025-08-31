@@ -3,3 +3,15 @@ body{
  align-items: center;
  padding: 5px;
 }
+
+.枠線{
+ border: solid black;
+ border-radius: 5px;
+ padding: 2px;
+}
+
+.文字背景-黒{
+ border-radius: 6px;
+ background-color: black;
+ color: white;
+}
