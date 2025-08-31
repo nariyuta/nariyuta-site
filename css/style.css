@@ -1,11 +1,13 @@
 body{
  padding: 5px;
  background-color: lightyellow;
-}
-
-.Center:not(.DontCenter){
  text-align: center;
  align-items: center;
+}
+
+aside{
+ display: flex;
+ padding: 3px;
 }
 
 .枠線{
