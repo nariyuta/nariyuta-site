@@ -1,9 +1,11 @@
 body{
- text-align: center;
- align-items: center;
  padding: 5px;
 }
 
+.Center:not(.DontCenter){
+ text-align: center;
+ align-items: center;
+}
 .枠線{
  border: solid black;
  border-radius: 5px;
